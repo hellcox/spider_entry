@@ -2,7 +2,8 @@
 
 ## 说明
 * 基于python3 开发
-* 可将数据保存到mysql
+* 基于requests抓取HTTPS
+* 将数据保存到mysql
 
 ## 需要的包
 
@@ -10,6 +11,9 @@
 * pymysql
 * beatufulsoup4
 * urllib3
+
+## 运行
+Run 'spider_main.py'
 
 ## 文件说明
 
