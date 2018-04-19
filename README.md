@@ -1,5 +1,7 @@
 # spider_entry 词条蜘蛛
 
+### 百度百科词条爬虫
+
 ## 说明
 * 基于python3 开发
 * 基于requests抓取HTTPS
@@ -13,7 +15,8 @@
 * urllib3
 
 ## 运行
-Run 'spider_main.py'
+
+* Run 'spider_main.py'
 
 ## 文件说明
 
